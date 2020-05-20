@@ -3,7 +3,7 @@ dist: bionic
 notifications:
   email:
     recipients:
-      - hellojessemillar@gmail.com
+      - milkbarlife@gmail.com
     on_success: change
     on_failure: always
 
