@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/milkbarlife/redirects.svg?branch=master)](https://travis-ci.org/milkbarlife/redirects)
 
-This repository (hosted via GitHub Pages) contains URL short links for [milkbar.life](https://milkbar.life). There is a CloudFlare page rule set up to redirect `milkbarlife.com/r/*` links here.
+This repository (hosted via GitHub Pages) contains URL short links for [milkbar.life](https://milkbar.life). There is a CloudFlare page rule set up to redirect `milkbar.life/r/*` links here.
 
 ## Usage
 
