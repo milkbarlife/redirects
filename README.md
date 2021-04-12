@@ -1,3 +1,5 @@
+> These redirects are deprecated in favor of https://compycore.com/r/milkbar/... because renewing https://milkbar.life was just too expensive.
+
 # Redirects
 
 [![Build Status](https://travis-ci.org/milkbarlife/redirects.svg?branch=master)](https://travis-ci.org/milkbarlife/redirects)
